@@ -8,7 +8,7 @@ When you add it save in local storage of browser.
 
 ### Screenshot
 
-![](screen.png)
+![](screen.PNG)
 
 ### Links
 
